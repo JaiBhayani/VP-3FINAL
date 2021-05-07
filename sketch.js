@@ -6,7 +6,7 @@ var foodObj;
 var gameState,readState;
 
 function preload(){
-sadDog=loadImage("Dogimg.png");
+sadDog=loadImage("dogimg.png");
 happyDog=loadImage("dogImg1.png");
 garden=loadImage("Garden.png");
 washroom=loadImage("Wash Room.png");
